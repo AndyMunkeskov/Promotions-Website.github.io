@@ -15,6 +15,11 @@ Creating a Check List
 # To Do List
 - [x] <del> Create a To Do List </del>
 - [ ] Add more items from the paper
+- [ ] Add a side bar
+- [ ] Add personal links
+- [ ] Include images of games listed
+- [ ] Include short review/thoughts on each
+- [ ] Include a video of the games trailers
 
 --- 
 

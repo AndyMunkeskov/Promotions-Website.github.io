@@ -1,6 +1,6 @@
 # Promotions-Website.github.io
 Website Project
 
-Reminders
+## Reminders
 
-To Do List
+### To Do List

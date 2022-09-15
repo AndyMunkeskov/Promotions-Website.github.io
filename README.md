@@ -50,6 +50,4 @@ Creating a Check List
 
 
 
---- 
-
-### Yes
+---

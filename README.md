@@ -14,12 +14,32 @@ Creating a Check List
 
 # To Do List
 - [x] <del> Create a To Do List </del>
-- [ ] Add more items from the paper
-- [ ] Add a side bar
-- [ ] Add personal links
-- [ ] Include images of games listed
-- [ ] Include short review/thoughts on each
+
+- [x] Add more items from the paper
+- [ ] Make the title of my website
+- [ ] Include a background of some kind
+- [ ] Include a little bit about myself on the website
+- [ ] Create a list of the games I want to rank
+- [ ] Gather images and videos for all of these games to use on the website
+- [ ] Download these images and videos
+- [ ] Import those images onto my website
+- [ ] Create spaces to put those images and review
+- [ ] Include links of all sources used
 - [ ] Include a video of the games trailers
+- [ ] Write the reviews and thoughts on each of the games
+- [ ] Add these reviews and thoughts onto the website
+- [ ] Add a section on the side
+- [ ] Give it a title
+- [ ] Include personal links to myself
+- [ ] Include a sort of ending at the bottom of the site
+- - [ ] Create a side bar
+
+
+
+
+
+
+
 
 --- 
 

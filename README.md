@@ -19,6 +19,8 @@ Creating a Check List
 - [ ] Make the title of my website
 - [ ] Include a background of some kind
 - [ ] Include a little bit about myself on the website
+- [ ] Include information on my passion for games
+- [ ] Summarize my criteria for the rankings
 - [ ] Create a list of the games I want to rank
 - [ ] Gather images and videos for all of these games to use on the website
 - [ ] Download these images and videos

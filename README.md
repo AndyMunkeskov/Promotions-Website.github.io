@@ -28,11 +28,11 @@ Creating a Check List
 - [ ] Include a video of the games trailers
 - [ ] Write the reviews and thoughts on each of the games
 - [ ] Add these reviews and thoughts onto the website
-- [ ] Add a section on the side
+- - [ ] Add a section on the side
 - [ ] Give it a title
 - [ ] Include personal links to myself
 - [ ] Include a sort of ending at the bottom of the site
-- - [ ] Create a side bar
+
 
 
 
